@@ -1,5 +1,7 @@
 # 💫 About Me:
-                                                  Hi, I'm Minh Khai                                               <br><br>🌱 I’m currently learning Java<br>📫 How to reach me khaile.03042005@gmail.com<br>
+                                                  Hi, I'm Minh Khai                                              
+                                                🌱 I’m currently learning Java
+                                                📫 How to reach me khaile.03042005@gmail.com
 
 
 ## 🌐 Socials:
