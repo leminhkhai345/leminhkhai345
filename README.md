@@ -1,8 +1,6 @@
 # 💫 About Me:
-                                                  Hi, I'm Minh Khai        
-                                                  
-                                🌱 I’m currently learning Java
-                                📫 How to reach me khaile.03042005@gmail.com
+
+Hello, I'm Minh Khai, a third year student at Danang University of Technology.
 
                   
 
