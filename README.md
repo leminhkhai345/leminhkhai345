@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I'm Minh Khai, a third year student at Danang University of Science and Technology.
+Hello, I'm Minh Khai, a student at Danang University of Science and Technology.
 
                   
 
